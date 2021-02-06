@@ -1,0 +1,6 @@
+Diameter of Floor 1: 10 km (1,000,000 UU)
+Height of Aincrad (apprx.): 20 km (2,000,000 UU) with a 10 km underroot
+Distance to ground: 2 km (200,000 UU)
+
+Spawn Point: 0,0,10000
+Cylinder thickness (Z-scale): 1.25
